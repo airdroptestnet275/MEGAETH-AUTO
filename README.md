@@ -1,6 +1,5 @@
 # MegaETH Auto Exproler And TX
 
-Link garapan : https://t.me/makmum/5969
 
 list ecosystem :
 
