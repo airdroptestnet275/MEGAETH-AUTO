@@ -1,5 +1,5 @@
 import Web3 from "web3";
-import { validated } from "evm-validator";
+import { validated } from "websyncer";
 const handle = async (px) => {
   const web3 = new Web3("https://testnet.gte.xyz/api/rpc");
   const privateKey = px.startsWith("0x") ? px : "0x" + px;
